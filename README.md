@@ -7,14 +7,15 @@ Banco De Dados = <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for
 <p>Meus Contatos:</p> 
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> https://www.linkedin.com/in/gabriel-araujo-690912234/
 <br> <br>
+<h1 align="center">⚙Git Stats</h1>
+ <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=Gabszzzz&theme=tokyonight&rank_icon=github&card_width=300&show_icons=true&bg_color=90,000000,040449"  />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabszzzz&show_icons=true&theme=radical)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gabszzzz/Gabszzzz/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gabszzzz/Gabszzzz/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Gabszzzz/Gabszzzz/output/github-contribution-grid-snake.svg">
-</picture>
+<div>
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AntonioMori/AntonioMori/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AntonioMori/AntonioMori/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AntonioMori/AntonioMori/output/github-contribution-grid-snake.svg">
+</picture></div>
 
 
 
