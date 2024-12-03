@@ -1,4 +1,4 @@
-## Olá, atualmente sou estudante de programação 👋
+## Olá, atualmente sou estudante de programação no curso de Analise e desenvolvimento de Sistemas 👋
 Minhas principais linguagens são; <br> <br>
 Front-End = <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <br> <br> 
 Back-End = <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <br> <br>
