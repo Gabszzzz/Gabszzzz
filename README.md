@@ -6,10 +6,9 @@ Back-End = <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the
 Banco De Dados = <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /> <br> <br>
 
 
-<a href="https://www.linkedin.com/in/gabriel-araujo-690912234/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
 <p>Meus Contatos:</p> 
-<a href="https://www.linkedin.com/in/gabriel-araujo-690912234/" target"=_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
-<a href="https://www.instagram.com/gabriel_araujuu/" target"=_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
+<a href="https://www.linkedin.com/in/gabriel-araujo-690912234/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
+<a href="https://www.instagram.com/gabriel_araujuu/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
 
 
 <br> 
